@@ -42,11 +42,11 @@ This repository contains the code and analysis for my Master's dissertation: **"
 ### Performance Analysis & Validation
 - The sentence-level accuracy of 98% significantly exceeds the original SemEval-2020 competition baseline (best F1-score: 51.54%), warranting further investigation to ensure model generalizability. This discrepancy suggests potential overfitting to the specific dataset characteristics. The fragment-level performance (86% accuracy) aligns more closely with expected benchmarks for this task complexity.
 
-- Key takeaways for production deployment:
+Key takeaways for production deployment:
 
--- Fragment-level detection shows robust, validated performance
--- Sentence-level classification requires additional testing on diverse datasets
--- Model demonstrates strong potential with further refinement needed
+- Fragment-level detection shows robust, validated performance
+- Sentence-level classification requires additional testing on diverse datasets
+- Model demonstrates strong potential with further refinement needed
 
 ### Model Performance
 - **CRF Model**: 98% accuracy on sentence-level classification after k-fold validation
