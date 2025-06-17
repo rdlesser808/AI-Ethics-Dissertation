@@ -24,7 +24,7 @@ This repository contains the code and analysis for my Master's dissertation: **"
 - **ML Libraries**: TensorFlow, Scikit-learn, NLTK
 - **NLP Tools**: BERT tokenization, RoBERTa embeddings
 - **Data Processing**: Pandas, NumPy
-- **Web Scraping**: Custom scrapers for BBC and The Guardian
+- **Web Scraping**: Custom scrapers using BeautifulSoup for BBC and The Guardian
 
 ### Dataset
 - SemEval-2020 Task 11 corpus (536 articles, 13 propaganda techniques)
@@ -60,7 +60,7 @@ Key takeaways for production deployment:
 - **Minimal difference** between Israel-Palestine relevant vs. irrelevant articles (26.9% vs 24.9%)
 - **Consistent propaganda levels** across time periods and topics
 
-## 🛠️ Repository Structure
+## Repository Structure
 
 ```
 AI-Ethics-Dissertation/
@@ -75,7 +75,7 @@ AI-Ethics-Dissertation/
 │   └── RLesser Dissertation Viva.pdf
 ```
 
-## 🚀 Business Applications
+## Business Applications
 
 This research has practical applications for:
 - **Media literacy tools** - Browser extensions for real-time propaganda detection
@@ -83,7 +83,7 @@ This research has practical applications for:
 - **Social media platforms** - Content moderation and fact-checking systems
 - **Academic research** - Studying media bias and information campaigns
 
-## 📈 Skills Demonstration
+## Skills Demonstration
 
 This project demonstrates:
 - **Technical problem-solving**: Translating complex NLP challenges into scalable ML solutions
@@ -91,18 +91,18 @@ This project demonstrates:
 - **Cross-functional communication**: Presenting technical findings to non-technical stakeholders
 - **Real-world deployment**: Moving from research models to practical applications
 
-## 📚 Academic Context
+## Academic Context
 
 This work builds upon the SemEval-2020 Task 11 competition results, achieving performance comparable to top-performing systems while maintaining computational efficiency for real-world deployment.
 
-## ⚖️ Ethical Considerations
+## Ethical Considerations
 
 - Models designed for media literacy, not censorship
 - Transparent limitations and potential biases acknowledged
 - Focus on empowering critical thinking rather than definitive judgments
 - Careful consideration of sensitive topics like Israel-Palestine coverage
 
-## 🎓 Skills Demonstrated
+## Skills Demonstrated
 
 - **Machine Learning**: CNN, CRF, BERT, cross-validation, hyperparameter tuning
 - **Data Science**: Large-scale data processing, statistical analysis, visualization
