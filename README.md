@@ -65,15 +65,17 @@ Key takeaways for production deployment:
 ```
 AI-Ethics-Dissertation/
 ├── Article-web-scraping/
-│   ├── bbc_articles.py/
-│   └── guardian_articles.py/
+│   ├── bbc_articles.py                    # Web scraper for BBC news articles
+│   └── guardian_articles.py               # Web scraper for Guardian news articles
 ├── Notebooks/
-│   ├── CRF/BERT FINAL MODEL.ipynb
-│   ├── data exploration correct.ipynb
+│   ├── CRF/BERT FINAL MODEL.ipynb         # Final implementation combining CRF and BERT models
+│   └── data exploration correct.ipynb     # Data analysis and exploratory data analysis
 ├── Report-and-Presentation/
-│   ├── RLesser Dissertation Final.pdf
-│   └── RLesser Dissertation Viva.pdf
+│   ├── RLesser Dissertation Final.pdf     # Complete dissertation research paper
+│   └── RLesser Dissertation Viva.pdf      # Dissertation defense presentation
+└── README.md                              # Project documentation
 ```
+
 
 ## Business Applications
 
