@@ -22,7 +22,8 @@ This repository contains the code and analysis for my Master's dissertation: **"
 ### Technical Stack
 - **Languages**: Python
 - **ML Libraries**: TensorFlow, Scikit-learn, NLTK
-- **NLP Tools**: BERT tokenization, RoBERTa embeddings
+- **NLP Tools**: BERT and NLTK, tokenization, BERT embeddings
+- **LLMs**: RoBERTa 
 - **Data Processing**: Pandas, NumPy
 - **Web Scraping**: Custom scrapers using BeautifulSoup for BBC and The Guardian
 
