@@ -1,9 +1,9 @@
-# MSC in AI and Ethics Dissertation
+# MSc in AI and Ethics Dissertation
 Master's level dissertation on machine learning for propaganda detection
 
 ## Project Overview
 
-This repository contains the code and analysis for my Master's dissertation: **"A Machine Learning Approach for Detecting Propaganda in News Articles with Case Study on Israel-Palestine Coverage"** - completed as part of my MS in Artificial Intelligence and Ethics at Northeastern University London.
+This repository contains the code and analysis for my Master's dissertation: **"A Machine Learning Approach for Detecting Propaganda in News Articles with Case Study on Israel-Palestine Coverage"** - completed as part of my MSc in Artificial Intelligence and Ethics at Northeastern University London.
 
 ## Project Goals
 
