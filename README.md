@@ -1,5 +1,5 @@
 # MSC in AI and Ethics Dissertation
-A Machine Learning Approach for Detecting Propaganda in News Articles with Case Study on Israel-Palestine Coverage
+Master's level dissertation on machine learning for propaganda detection
 
 ## Project Overview
 
