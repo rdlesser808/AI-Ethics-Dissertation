@@ -29,7 +29,7 @@ This repository contains the code and analysis for my Master's dissertation: **"
 
 ### Dataset
 - SemEval-2020 Task 11 corpus (536 articles, 13 propaganda techniques)
-- Real-world deployment on 2,000+ articles about Israel-Palestine conflict
+- Real-world deployment on 2,000+ articles from Middle East topic pages
 - Professional annotations with techniques like "Loaded Language," "Name Calling," "Appeal to Fear"
 - Data sourced from https://github.com/marcogdepinto/PropagandaDetection
 
